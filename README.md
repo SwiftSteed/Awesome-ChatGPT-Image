@@ -4,4 +4,4 @@
 ### 🚀 提示词库 (Library)
 *直接点击名称查看详情（含提示词、图片及参数）*
 
-- [勾股定理图解](library/勾股定理图解.md)
+- [PythagoreanTheorem（勾股定理图解）](library/PythagoreanTheorem.md)
